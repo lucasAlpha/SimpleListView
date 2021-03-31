@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AulaPDM</string>
+
+    <string-array name="teams">
+        <item>India</item>
+        <item>SouthAfrica</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>New Zealand</item>
+        <item>Sri Lanka</item>
+        <item>Pakistan</item>
+        <item>West Indies</item>
+        <item>Bangladesh</item>
+        <item>Ireland</item>
+        <item>India</item>
+        <item>SouthAfrica</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>New Zealand</item>
+        <item>Sri Lanka</item>
+        <item>Pakistan</item>
+        <item>West Indies</item>
+        <item>Bangladesh</item>
+        <item>Ireland</item>
+    </string-array>
+
+</resources>
